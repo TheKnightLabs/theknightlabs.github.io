@@ -121,7 +121,7 @@ a:not([href]):not([tabindex]) {
 	color: #fff;
 }
 .btn-common {
-	background-color: #f43d3d;
+	background-color: #f13835;
 	position: relative;
 	z-index: 1;
 	text-transform: uppercase;
@@ -181,7 +181,7 @@ a.back-to-top i {
 	height: 40px;
 	line-height: 40px;
 	color: #fff;
-	background: #f43d3d;
+	background: #f13835;
 	border-radius: 30px;
 	text-align: center;
 	transition: all 0.2s ease-in-out;
@@ -221,7 +221,7 @@ a.back-to-top:hover {
 	height: 100%;
 	border-radius: 100%;
 	border: 7px solid transparent;
-	border-top-color: #f43d3d;
+	border-top-color: #f13835;
 }
 #loader-1:before {
 	z-index: 100;
@@ -248,7 +248,7 @@ a.back-to-top:hover {
 	padding: 60px 0;
 }
 .feature-bg {
-	background: #f43d3d;
+	background: #f13835;
 }
 .text-wrapper {
 	height: 100%;
@@ -294,7 +294,7 @@ a.back-to-top:hover {
 	background: #fff;
 }
 .feature-item:hover .icon i {
-	color: #f43d3d;
+	color: #f13835;
 }
 .services-item {
 	background: #fff;
@@ -312,7 +312,7 @@ a.back-to-top:hover {
 }
 .services-item .icon i {
 	font-size: 42px;
-	color: #f43d3d;
+	color: #f13835;
 }
 .services-item .services-content h3 {
 	font-weight: 600;
@@ -322,7 +322,7 @@ a.back-to-top:hover {
 	color: #585b60;
 }
 .services-item .services-content h3:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
 .services-item:hover {
 	box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.08);
@@ -348,7 +348,7 @@ a.back-to-top:hover {
 	margin-bottom: 30px;
 }
 .skills-section .progress .progress-bar {
-	background: #f43d3d;
+	background: #f13835;
 }
 .navbar-brand {
 	position: relative;
@@ -377,10 +377,10 @@ a.back-to-top:hover {
 }
 .top-nav-collapse .navbar-nav .nav-link:hover {
 	cursor: pointer;
-	color: #f43d3d !important;
+	color: #f13835 !important;
 }
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-	color: #f43d3d !important;
+	color: #f13835 !important;
 }
 .menu-bg {
 	background: 0 0;
@@ -409,22 +409,22 @@ a.back-to-top:hover {
 .navbar-expand-md .navbar-nav li .active > a,
 .navbar-expand-md .navbar-nav li a:focus,
 .navbar-expand-md .navbar-nav li a:hover {
-	color: #f43d3d;
+	color: #f13835;
 	outline: 0;
 }
 .navbar-expand-md .navbar-nav .active > .nav-link,
 .navbar-expand-md .navbar-nav .nav-link.active {
-	color: #f43d3d !important;
+	color: #f13835 !important;
 }
 .navbar-expand-md .navbar-nav .nav-link:focus,
 .navbar-expand-md .navbar-nav .nav-link:hover {
-	color: #f43d3d !important;
+	color: #f13835 !important;
 }
 .navbar {
 	padding: 0;
 }
 .navbar li.active a.nav-link {
-	color: #f43d3d;
+	color: #f13835;
 }
 #hero-area {
 	color: #fff;
@@ -507,7 +507,7 @@ a.back-to-top:hover {
 	color: #fff;
 	width: 36px;
 	height: 36px;
-	background: #f43d3d;
+	background: #f13835;
 	display: block;
 	border-radius: 30px;
 	line-height: 36px;
@@ -533,7 +533,7 @@ a.back-to-top:hover {
 	color: #333;
 }
 .team-item .info-text h3 a:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
 .team-item .info-text p {
 	margin: 0;
@@ -641,8 +641,8 @@ a.back-to-top:hover {
 	padding: 0 0 20px;
 }
 .controls .active {
-	color: #f43d3d !important;
-	border-color: #f43d3d;
+	color: #f13835 !important;
+	border-color: #f13835;
 	background: 0 0;
 }
 .controls .btn {
@@ -702,7 +702,7 @@ a.back-to-top:hover {
 #pricing .title {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background: #f43d3d;
+	background: #f13835;
 	border-top-right-radius: 4px;
 	border-top-left-radius: 4px;
 }
@@ -753,7 +753,7 @@ a.back-to-top:hover {
 	color: #333;
 }
 #blog .blog-item-text h3 a:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
 #blog .blog-item-text p {
 	line-height: 25px;
@@ -773,7 +773,7 @@ a.back-to-top:hover {
 	color: #999;
 }
 .meta-tags span a:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
 #blog-single {
 	padding: 60px 0;
@@ -903,7 +903,7 @@ a.back-to-top:hover {
 	border: 1px solid #f7f7f7;
 }
 .form-control:focus {
-	border-color: #f43d3d;
+	border-color: #f13835;
 	box-shadow: none;
 	outline: 0;
 }
@@ -946,7 +946,7 @@ textarea {
 	color: #abacae;
 }
 .contact-right .contact-icon {
-	background: #f43d3d;
+	background: #f13835;
 	color: #fff;
 	border-radius: 4px;
 	font-size: 20px;
@@ -963,6 +963,7 @@ textarea {
 #contact {
 	position: relative;
 	overflow: hidden;
+	border-top: thin solid #f13835;
 }
 .h3 {
 	font-size: 18px;
@@ -980,7 +981,7 @@ textarea {
 	font-weight: 400;
 }
 .footer-area ul li a:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
 .copyright {
 	background: #34363a;
@@ -1004,5 +1005,5 @@ textarea {
 	color: #fff;
 }
 .copyright p a:hover {
-	color: #f43d3d;
+	color: #f13835;
 }
