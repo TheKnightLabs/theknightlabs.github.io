@@ -15,6 +15,7 @@
   .counter-box {
     margin-bottom: 30px;
   }
+  
 }
 
 /* tablets */
@@ -31,6 +32,9 @@
   }
   #pricing-table .title h3 {
     font-size: 14px;
+  }
+  .navbar-brand {
+	max-width: 235px;
   }
 }
 
@@ -199,5 +203,8 @@
   }
   .copyright .float-right {
     float: left !important;
+  }
+  .navbar-brand {
+	max-width: 75%;
   }
 }
