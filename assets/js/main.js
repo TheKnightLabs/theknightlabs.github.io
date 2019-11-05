@@ -13,6 +13,7 @@ function theknightlabs($) {
 				$(".scrolling-navbar").removeClass("top-nav-collapse");
 			}
 		});
+		$(window).scroll();
 
 		/* Auto Close Responsive Navbar on Click ========================================================*/
 		function close_toggle() {
