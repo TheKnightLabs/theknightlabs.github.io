@@ -4,7 +4,7 @@ function theknightlabs($) {
 	$(window).on("load", function() {
 		/*Page Loader active ========================================================*/
 		$("#preloader").fadeOut();
-
+		$("iframe").each((i,e)=>{$(e).attr('src',$(e).attr('data-src'))})
 		// Sticky Nav
 		$(window).on("scroll", function() {
 			if ($(window).scrollTop() > 100) {
