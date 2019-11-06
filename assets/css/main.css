@@ -8,6 +8,7 @@
 		url("../fonts/candara-webfont.svg#Candara") format("svg");
 	font-weight: normal;
 	font-style: normal;
+	font-display: swap
 }
 html {
 	overflow-x: hidden;
