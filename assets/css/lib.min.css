@@ -43,6 +43,15 @@
  .lni-cog:before {
 	content: "\e94c";
  }
+ .lni-comment-reply-alt:before {
+	content: "\e94e";
+ }
+ .lni-comments-alt:before {
+	content: "\e94f";
+ }
+ .lni-comments:before {
+	content: "\e950";
+ }
  .lni-envelope:before {
 	content: "\e96a";
  }

@@ -167,6 +167,9 @@ button:focus {
 .social-icon .linkedin:hover {
 	background: #1260a2;
 }
+.social-icon .mastodon:hover {
+	background: #2b90d9;
+}
 a.back-to-top {
 	display: none;
 	position: fixed;
